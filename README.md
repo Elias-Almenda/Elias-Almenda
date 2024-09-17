@@ -1,6 +1,6 @@
 <img src = "cafe.gif" width = "325px" align = "right">
 
-# 👍Bem-vindo ao meu GitHub!!😁
+# 😎Bem-vindo ao meu GitHub!!👍
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elias_almenda/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:eliasalmenda64@gmail.com)
