@@ -20,6 +20,6 @@ Sou um estudante de Ads, estou sempre buscando me aprimorar principalmente na á
 ---
 
 <div align = "center">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risoflorais&show_icons=true&theme=neon&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=risoflorais&show_icons=true&show_icons=true&theme=neon&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Almenda&show_icons=true&theme=neon&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=Elias-Almenda&show_icons=true&show_icons=true&theme=neon&count_private=true" />
 </div>
