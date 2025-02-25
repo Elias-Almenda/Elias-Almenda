@@ -6,15 +6,17 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:eliasalmenda64@gmail.com)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-Sou um estudante de Ads, estou sempre buscando me aprimorar principalmente na área da programação 📚
+Sou um estudante de Analise e desenvolvimento de sistema no instituto Sesi/Senai, esse Github sera utilizado apenas para os codigos e trabalhos feitos para o colegio 📚
 
 - 📙Estudando Javascript  
 - 📕Estudando Java 
-
+- 📗Estudando Python
+  
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
 ---
