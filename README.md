@@ -6,7 +6,7 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:eliasalmenda64@gmail.com)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-Sou um estudante de Analise e desenvolvimento de sistema no instituto Sesi/Senai, esse Github sera utilizado apenas para os codigos e trabalhos feitos para o colegio 📚
+Sou um estudante de Analise e desenvolvimento de sistema no instituto Sesi/Senai, esse Github sera utilizado apenas para os codigos e trabalhos pessoais 📚
 
 - 📙Estudando Javascript  
 - 📕Estudando Java 
