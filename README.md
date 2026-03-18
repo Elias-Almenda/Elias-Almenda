@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hello, I'm Elias Almenda</h1>
+<h1 align="center"> Hello, I'm Elias Almenda</h1>
 
 <p align="center">
-  💻 Software Engineering Student | 🚀 Future Developer | 📊 Tech Enthusiast
+   Software Engineering Student | Developer |  Tech Enthusiast
 </p>
 
 <p align="center">
@@ -12,19 +12,19 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-🎓 Graduated in **Systems Analysis and Development** (Dec/2025)  
-📚 Currently studying **Software Engineering**  
-💼 Looking for my **first opportunity in IT**  
-🧠 Focused on continuous learning and growth  
-🎯 Interested in **development, data, and problem-solving**
+ Graduated in **Systems Analysis and Development** (Dec/2025)  
+ Currently studying **Software Engineering**  
+ Looking for my **first opportunity in IT**  
+ Focused on continuous learning and growth  
+ Interested in **development, data, and problem-solving**
 
-💡 I like turning ideas into real solutions through code, logic, and creativity.
+ I like turning ideas into real solutions through code, logic, and creativity.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,java,cpp,html,git,github,vscode,mysql" />
@@ -32,20 +32,28 @@
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
-  <a href="https://instagram.com/elias_almenda">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
   <a href="mailto:eliasalmenda64@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  
+  <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/elias-almenda-rodrigues-padilha-4a093b2a1/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="https://github.com/Elias-Almenda">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <a href="https://instagram.com/elias_almenda">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
-
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Elias-Almenda&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -58,7 +66,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+##  Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Elias-Almenda/Elias-Almenda/output/github-contribution-grid-snake.svg"/>
@@ -66,7 +74,7 @@
 
 ---
 
-## 👀 Profile Views
+##  Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Elias-Almenda&color=blue&style=for-the-badge"/>
@@ -74,7 +82,7 @@
 
 ---
 
-## ✨ Final Thought
+##  Final Thought
 
 <p align="center">
   <i>"Learning never stops — every line of code is a step forward."</i>
@@ -83,6 +91,6 @@
 ---
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! <br>
-  Let's build something amazing together 🚀
+   Thanks for visiting my profile! <br>
+  Let's build something amazing together 
 </p>
