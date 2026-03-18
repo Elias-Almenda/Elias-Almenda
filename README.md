@@ -1,64 +1,88 @@
-<img src="cafe.gif" width="320px" align="right" alt="Coffee coding gif"/>
+<h1 align="center">👋 Hello, I'm Elias Almenda</h1>
 
-# 👋 Welcome to my GitHub!
+<p align="center">
+  💻 Software Engineering Student | 🚀 Future Developer | 📊 Tech Enthusiast
+</p>
 
-Hello! I'm **Elias Almenda**, a passionate developer and technology enthusiast.  
-I’m a **recent graduate in Systems Analysis and Development (Dec/2025)** and currently **studying Softawre engineer**, focused on building solid foundations and evolving continuously in the IT field.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-Always-orange?style=for-the-badge" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Graduated in **Systems Analysis and Development**
-- 📊 Currently studying **Softawre engineer**
-- 💼 Looking for my **first professional opportunity in IT**
-- 🧠 Constantly learning and improving my skills
-- 🎯 Interested in software development, data, and problem-solving
+🎓 Graduated in **Systems Analysis and Development** (Dec/2025)  
+📚 Currently studying **Software Engineering**  
+💼 Looking for my **first opportunity in IT**  
+🧠 Focused on continuous learning and growth  
+🎯 Interested in **development, data, and problem-solving**
 
-I enjoy transforming ideas into practical solutions through clean code, logic, and creativity.
+💡 I like turning ideas into real solutions through code, logic, and creativity.
 
 ---
 
-## 🛠️ Technologies & Languages
+## 🛠️ Tech Stack
 
-**Main languages I work with:**
-
-- 📗 Python
-- 📙 JavaScript
-- 📕 Java 
-- 📘 C++  
-
-**Tools & Technologies:**
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="42" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="42" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="42" height="42"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="42" height="42"/>&nbsp;
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,html,git,github,vscode,mysql" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elias_almenda/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:eliasalmenda64@gmail.com)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+  <a href="https://instagram.com/elias_almenda">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:eliasalmenda64@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-Almenda&layout=compact&theme=neon&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elias-Almenda&show_icons=true&theme=neon&count_private=true"/>
-</div>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Elias-AlmendaR&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elias-AlmendaR&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Elias-Almenda&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## ✨ Final Note
+## 🐍 Contribution Snake
 
-> *"Learning never stops — every line of code is a step forward."*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Elias-Almenda/Elias-Almenda/output/github-contribution-grid-snake.svg"/>
+</p>
 
-Thanks for visiting my profile!  
-Feel free to explore my repositories and connect with me 🚀
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Elias-Almenda&color=blue&style=for-the-badge"/>
+</p>
+
+---
+
+## ✨ Final Thought
+
+<p align="center">
+  <i>"Learning never stops — every line of code is a step forward."</i>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! <br>
+  Let's build something amazing together 🚀
+</p>
